@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif">
 
 <h3 align="left">💫 About Me:</h3>
-I'm a very passionate, adaptable, and professional person with the expertise in programming and currently delving into software engineering, machine learning, and data science. I'm also really fond in teamwork and leadership and willing to foster collaborative environments for innovative projects with others. To embrace new challenges and continuously strive for personal growth especially in the fields of machine learning and data science is my ultimate goal. Contrast with my personal goals, I also try to increase my adaptability and resilience, thriving in dynamic environments so that I may seek opportunities to contribute to cutting-edge projects and collaborate with like-minded professionals.
+I'm a very passionate, adaptable, and professional person with the expertise in programming and currently delving into software engineering, machine learning, and data science. I'm also really fond in teamwork, leadership and willing to foster collaborative environments for innovative projects with others. To embrace new challenges and continuously strive for personal growth especially in the fields of machine learning and data science is my ultimate goal. Contrast with my personal goals, I also try to increase my adaptability and resilience, thriving in dynamic environments so that I may seek opportunities to contribute to cutting-edge projects and collaborate with like-minded professionals.
 
 - 🌱 I’m currently learning **Django, React.Js, Next.Js and a lot more...**
 
