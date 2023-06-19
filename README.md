@@ -4,9 +4,6 @@
 <h3 align="center">A passionate anything developer from the Great Nation of Indonesia</h3>
 <img align="right" alt="Coding" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif">
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joshuanadeak&label=Profile%20views&color=0e75b6&style=flat" alt="joshuanadeak" /> </p>
-
 <h3 align="left">💫 About Me:</h3>
 I'm a very passionate, adaptable, and professional person with the expertise in programming and currently delving into software engineering, machine learning, and data science. I'm also really fond in teamwork and leadership and willing to foster collaborative environments for innovative projects with others. To embrace new challenges and continuously strive for personal growth especially in the fields of machine learning and data science is my ultimate goal. Contrast with my personal goals, I also try to increase my adaptability and resilience, thriving in dynamic environments so that I may seek opportunities to contribute to cutting-edge projects and collaborate with like-minded professionals.
 
@@ -42,3 +39,5 @@ I'm a very passionate, adaptable, and professional person with the expertise in 
 
 <h3 align="left">🏆 Github Trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joshuanadeak" alt="joshuanadeak" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joshuanadeak&label=Profile%20views&color=0e75b6&style=flat" alt="joshuanadeak" /> </p>
