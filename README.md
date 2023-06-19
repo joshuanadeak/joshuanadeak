@@ -1,6 +1,7 @@
 ![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
 
-<h1 align="center">Greetings Fellow Tech Enthusiast 👋, The name's Joshua Nadeak - A Sinner, Try To Be Devout Lutheran</h1>
+<h1 align="center">Greetings Fellow Tech Enthusiast 👋</h1>
+<h1 align="center">The name's Joshua Nadeak - A Try To Be Devout Lutheran</h1>
 <h3 align="center">A passionate anything developer from the Great Nation of Indonesia</h3>
 <img align'"right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif">
 
@@ -25,7 +26,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/joshua-nadeak-80057316a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joshua-nadeak-80057316a" height="30" width="40" /></a>
 <a href="https://instagram.com/patriusbasileuslutheri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="patriusbasileuslutheri" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/joshuanadeak8024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="joshuanadeak8024" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@joshuanadeak8024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="joshuanadeak8024" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/joshuanadeak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="joshuanadeak" height="30" width="40" /></a>
 </p>
 
